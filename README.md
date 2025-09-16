@@ -23,13 +23,6 @@ Here’s the ER diagram of the database:
 ---
 
 ## 📂 Repository Contents
-- `er_diagram.png` → Visual ER Diagram of the system  
+- `order_management_system.png` → Visual ER Diagram of the system  
 - `order_management_system.sql` → SQL schema (tables & relationships)  
 - `README.md` → Project documentation  
-
----
-
-## 🚀 How to Use
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/orders-management-system.git
