@@ -18,7 +18,7 @@ Starting with an **Entity-Relationship Diagram (ERD)**, the system is built in S
 ## 🖼 ER Diagram
 Here’s the ER diagram of the database:  
 
-![Orders Management ER Diagram](er_diagram.png)  
+<a href="https://github.com/ABHYA-9987/orders-management-system/blob/main/Orders%20Management%20System.png">View ER Diagram</a>
 
 ---
 
